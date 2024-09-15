@@ -8,6 +8,7 @@
 - Capture a screenshot of the board (better if empty)
 - Run the jupyter notebook with the modified image path
 - See the soltion at the end of the notebook
+- Star the repo if you like it
 
 # Setup:
 - Create virtual environment: `python -m venv venv`
