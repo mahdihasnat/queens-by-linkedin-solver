@@ -1,0 +1,6 @@
+ipykernel
+opencv-python
+scikit-learn
+matplotlib
+icecream
+ortools
