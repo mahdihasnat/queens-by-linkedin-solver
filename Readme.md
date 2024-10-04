@@ -15,3 +15,6 @@
 - Activate virtual environment: `source venv/bin/activate`
 - Install requirements: `pip install -r requirements.txt`
 - Run the jupyter notebook: `jupyter lab`
+
+# Example:
+![](./attachments/transformation_visualization.png)
